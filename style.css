@@ -56,15 +56,12 @@ section{
 section > p{
     padding-bottom: 2em;
 }
-section#img01{
-    background-image: url("imagens/background001.jpg");
+section#img{
+    background-image: url("./background.jpg");
     background-position: right center;
 }
-section#img02{
-    background-image: url("imagens/background002.jpg");
-}
 section.normal{
-    background-color: white;
+    background-color: rgb(255, 241, 241);
     text-align: center;
 }
 section.imagem{
