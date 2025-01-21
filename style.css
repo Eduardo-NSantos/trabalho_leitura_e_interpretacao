@@ -22,7 +22,7 @@ html, body{
 }
 
 header{
-    background-color: rgb(240, 11, 190);
+    background-image: linear-gradient(to right, rgb(29, 1, 1), rgb(71, 3, 3), rgb(90, 2, 2));
     color: white;
     text-align: center;
     font-variant: small-caps;
